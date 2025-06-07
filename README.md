@@ -91,7 +91,36 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 - TBD
 
 ### Documentation, Tips and Tricks
- - TBD
+ - [Kubernetes Overview](https://kubernetes.io/docs/concepts/overview/)
+ - [Kubernetes Architecture](https://kubernetes.io/docs/concepts/architecture/)
+ - [Kubernetes Objects](https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/)
+ - [Pods](https://kubernetes.io/docs/concepts/workloads/pods/)
+ - [Deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
+ - [ReplicaSet](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/)
+ - [StatefulSet](https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/)
+ - [DaemonSet](https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/)
+ - [Jobs and CronJobs](https://kubernetes.io/docs/concepts/workloads/controllers/job/)
+ - [Service](https://kubernetes.io/docs/concepts/services-networking/service/)
+ - [Ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/)
+ - [Cluster Networking](https://kubernetes.io/docs/concepts/cluster-administration/networking/)
+ - [Volumes](https://kubernetes.io/docs/concepts/storage/volumes/)
+ - [Persistent Volumes](https://kubernetes.io/docs/concepts/storage/persistent-volumes/)
+ - [ConfigMaps](https://kubernetes.io/docs/concepts/configuration/configmap/)
+ - [Secrets](https://kubernetes.io/docs/concepts/configuration/secret/)
+ - [Kubernetes Scheduler](https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/)
+ - [Taints and Tolerations](https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/)
+ - [Node Affinity/Anti-Affinity](https://kubernetes.io/docs/concepts/scheduling-eviction/assign-pod-node/)
+ - [Security for Kubernetes](https://kubernetes.io/docs/concepts/security/)
+ - [RBAC](https://kubernetes.io/docs/reference/access-authn-authz/rbac/)
+ - [Platform as a Product: Understanding the Personas](https://tag-app-delivery.cncf.io/blog/paap-personas/)
+ - [Container Runtimes](https://kubernetes.io/docs/setup/production-environment/container-runtimes/)
+ - [Cluster Networking](https://kubernetes.io/docs/concepts/cluster-administration/networking/)
+ - [Cloud Native Landscape](https://landscape.cncf.io/)
+ - [Horizontal Pod Autoscaling](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
+ - [CNCF Technical Oversight Committee (TOC)](https://github.com/cncf/toc)
+ - [Prometheus](https://prometheus.io/docs/introduction/overview/)
+ - [GitOps](https://opengitops.dev/)
+ - [CNCF Glossary](https://glossary.cncf.io/)
 
 ### Books
 - TBD
