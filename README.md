@@ -88,7 +88,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
  * [Kubernetes and Cloud-Native Associate (KCNA)](https://kodekloud.com/courses/kubernetes-and-cloud-native-associate-kcna/) on KodeKloud
 
 ### Practice Tests
-- TBD
+- [Free test](https://yetmike.com/kcna)
 
 ### Documentation, Tips and Tricks
  - [Kubernetes Overview](https://kubernetes.io/docs/concepts/overview/)
@@ -133,6 +133,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
  - [Kubernetes and Cloud Native Security Associate (KCSA)]() on KodeKloud
 
 ### Practice Tests
+- [Free test](https://yetmike.com/kcsa)
 - [Free mock](https://kubernetes-security-kcsa-mock.vercel.app/)
 
 ### Documentation, Tips and Tricks
