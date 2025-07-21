@@ -60,7 +60,8 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 
 
 ### Hands-On Labs
-* [killer.sh/cks](https://killer.sh/cks)
+- [Self-pased preparation](./cka/README.md)
+- [killer.sh/cks](https://killer.sh/cks)
 - [killercoda.com/killer-shell-cks](https://killercoda.com/killer-shell-cks) labs
 
 ### Documentation, Tips and Tricks
