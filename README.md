@@ -127,7 +127,8 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 - TBD
 
 ### Articles
- * TBD
+ - [Passing KCNA Exam In 15 Minutes
+](https://medium.com/@yetmike/passing-kcna-exam-in-15-minutes-d7d63defe972)
 
 ## Kubernetes and Cloud Security Associate (KCSA)
 ### Courses
@@ -144,4 +145,5 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 - [Learn Kubernetes Security: Securely orchestrate, scale, and manage your microservices in Kubernetes deployments](https://www.amazon.com/Learn-Kubernetes-Security-orchestrate-microservices/dp/1839216506)
 
 ### Articles
-- TBD
+- [On how I passed KCSA
+](https://medium.com/@yetmike/on-how-i-passed-kcsa-e1ed71cd59ab)
