@@ -1,7 +1,6 @@
 # Awesome Kubestronaut
 
 A curated and opinionated list of resources to help you ace Kubernetes certifications and achieve the title of KubeAstronaut. This list includes study materials, hands-on labs, and success stories to guide your journey.
-
 ## Contents
  * [Introduction](#introduction)
  * [Certified Kubernetes Administrator (CKA)](#certified-kubernetes-administrator-cka)
