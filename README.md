@@ -19,6 +19,7 @@ A curated and opinionated list of resources to help you ace Kubernetes certifica
  * [Prometheus Certified Associate (PCA)](#prometheus-certified-associate-pca)
  * [Istio Certified Associate (ICA)](#istio-certified-associate-ica)
  * [Certified Cloud Native Platform Engineer (CNPE)](#certified-cloud-native-platform-engineer-cnpe)
+ * [Linux Foundation Certified System Administrator (LFCS)](#linux-foundation-certified-system-administrator-lfcs)
 
 ## Introduction
 
@@ -454,3 +455,31 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 
 ### Articles
  - [How I Passed the CNPE Exam](https://medium.com/@michatomczak_38795/how-i-passed-the-cloud-native-platform-engineer-cnpe-exam-and-what-you-can-learn-from-my-attempt-69f30f3d1458) on Medium
+
+## Linux Foundation Certified System Administrator (LFCS)
+
+The LFCS validates practical Linux system administration skills. It is a performance-based exam where you solve real tasks in a live Linux shell - no multiple choice. Covers five domains: Operations Deployment (25%), Networking (25%), Storage (20%), Essential Commands (20%), Users and Groups (10%). Passing score: 67%. Duration: 2 hours.
+
+### Courses
+ * [Linux Foundation Certified System Administrator (LFCS)](https://kodekloud.com/courses/linux-foundation-certified-system-administrator-lfcs) on KodeKloud - includes hands-on labs for every topic
+ * [Linux Foundation Certified System Administrator (LFCS)](https://www.coursera.org/specializations/pearson-linux-foundation-certified-system-administrator-lfcs) on Coursera (Pearson) - covers Linux fundamentals through advanced system administration
+ * [Linux Foundation Certified System Administrator (LFCS)](https://www.pluralsight.com/paths/linux-foundation-certified-system-administrator-lfcs) on Pluralsight
+
+### Hands-On Labs
+- [Killer.sh LFCS simulator](https://killer.sh/lfcs) - two 36-hour attempts included with exam purchase
+- Practice LVM, systemd, networking, and storage in a real Linux shell daily - muscle memory matters more than theory on this exam
+
+### Documentation, Tips and Tricks
+ - [LFCS Exam Page - Linux Foundation](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/)
+ - [LFCS Exam Study Guide by Ravi Kiran](https://ravikirans.com/lfcs-linux-exam-study-guide/)
+ - [GitHub notes by giulianopz](https://github.com/giulianopz/lfcs) - community exam notes
+ - [GitHub notes by simonesavi](https://github.com/simonesavi/lfcs) - community exam notes
+ - **Important**: LFCS is a **performance-based** exam (2 hours) - you solve real tasks in a live Linux command line with a remote proctor. No multiple choice
+ - Time management is the biggest challenge - start with easier tasks first to build momentum
+ - Focus heavily on: `systemctl`, `lvm`, `ip`/`nmcli`, `useradd`/`usermod`, `chmod`/`setfacl`, `mount`/`fstab`, `iptables`/`nftables`
+
+### Articles
+ - [Mastering the LFCS: The Ultimate Hands-On Study Guide](https://medium.com/@akremgrayya/mastering-the-lfcs-the-ultimate-hands-on-study-guid-1a64cfc9954e) on Medium
+ - [A short guide to acing the LFCS exam](https://okpallannaemeka.medium.com/a-short-guide-to-acing-the-linux-foundation-certified-system-administrator-lfcs-exam-2db4518931e6) on Medium
+ - [Linux Foundation Certified Systems Administrator (LFCS): Learnings and Preparation Guide](https://medium.com/@jenksgibbons/linux-foundation-certified-systems-administrator-lfcs-learnings-and-preparation-guide-7ae888da9635) on Medium
+ - [Surviving and Thriving in the LFCS Exam: A Personal Journey](https://qainsights.com/surviving-and-thriving-in-the-lfcs-exam-a-personal-journey/) on QAInsights
