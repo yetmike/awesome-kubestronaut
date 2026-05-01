@@ -168,13 +168,13 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 - [Free test](https://yetmike.com/tests/cgoa1)
 
 ### Documentation, Tips and Tricks
- - [OpenGitOps Principles](https://opengitops.dev/) — the four GitOps principles are central to the exam
+ - [OpenGitOps Principles](https://opengitops.dev/) - the four GitOps principles are central to the exam
  - [CGOA Study Guide (community)](https://github.com/otkd/CGOA-Study-Guide)
  - [Argo CD Documentation](https://argo-cd.readthedocs.io/en/stable/)
  - [Flux Documentation](https://fluxcd.io/flux/)
  - [GitOps Glossary](https://github.com/open-gitops/documents/blob/main/GLOSSARY.md)
  - [CNCF GitOps Working Group](https://github.com/open-gitops/project)
- - The exam is conceptual — focus on the four GitOps principles (Declarative, Versioned & Immutable, Pulled Automatically, Continuously Reconciled) rather than tool syntax
+ - The exam is conceptual - focus on the four GitOps principles (Declarative, Versioned & Immutable, Pulled Automatically, Continuously Reconciled) rather than tool syntax
 
 ### Books
 - TBD
@@ -201,7 +201,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
  - [Argo Events Documentation](https://argoproj.github.io/argo-events/)
  - [CAPA Study Guide by DevOpsCube](https://devopscube.com/certified-argo-project-associate/)
  - [CAPA Study Guide by Ravikiran Srinivasulu](https://ravikirans.com/capa-certified-argo-project-associate-study-guide/)
- - The exam covers all four Argo projects — budget extra time for Argo Workflows (36%) and Argo CD (34%)
+ - The exam covers all four Argo projects - budget extra time for Argo Workflows (36%) and Argo CD (34%)
 
 ### Books
 - TBD
@@ -230,7 +230,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
  - [Deploying Backstage](https://backstage.io/docs/deployment/)
  - [Backstage Architecture Overview](https://backstage.io/docs/overview/architecture-overview)
  - [Backstage Plugin Marketplace](https://backstage.io/plugins)
- - The exam is multiple-choice only — know `catalog-info.yaml` entity kinds (Component, API, System, Domain, Group, User, Resource, Location) cold
+ - The exam is multiple-choice only - know `catalog-info.yaml` entity kinds (Component, API, System, Domain, Group, User, Resource, Location) cold
 
 ### Books
 - TBD
@@ -265,7 +265,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 - [Platform Engineering on Kubernetes](https://www.manning.com/books/platform-engineering-on-kubernetes) by Mauricio Salatino
 
 ### Articles
- - [I Passed the CNPA Exam — Here's Everything You Need to Know](https://dev.to/vinujakhatode/i-passed-the-cnpa-exam-heres-everything-you-need-to-know-58c0) on DEV Community
+ - [I Passed the CNPA Exam - Here's Everything You Need to Know](https://dev.to/vinujakhatode/i-passed-the-cnpa-exam-heres-everything-you-need-to-know-58c0) on DEV Community
  - [How I Passed the CNPA Exam](https://medium.com/@kienlt.qn/how-i-passed-the-certified-cloud-native-platform-associate-cnpa-exam-e59186e3f669) on Medium
 
 ## Cilium Certified Associate (CCA)
@@ -287,7 +287,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
  - [Cilium Cluster Mesh](https://docs.cilium.io/en/stable/network/clustermesh/)
  - [eBPF Introduction](https://ebpf.io/what-is-ebpf/)
  - [Cilium BGP Control Plane](https://docs.cilium.io/en/stable/network/bgp-control-plane/)
- - CKA-level Kubernetes knowledge is assumed — if you don't have CKA yet, get comfortable with Kubernetes networking first
+ - CKA-level Kubernetes knowledge is assumed - if you don't have CKA yet, get comfortable with Kubernetes networking first
  - Practice reading CiliumNetworkPolicy YAML and reasoning about Layer 3/4/7 intent
 
 ### Books
@@ -319,7 +319,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
  - [Policy Reports](https://kyverno.io/docs/policy-reports/)
  - [Kyverno with Helm](https://kyverno.io/docs/installation/methods/)
  - [KCA Study Guide by Ravikiran Srinivasulu](https://ravikirans.com/kca-kyverno-certified-associate-study-guide/)
- - Writing Policies (32%) is the heaviest domain — focus on validate/mutate/generate rules and CEL expressions
+ - Writing Policies (32%) is the heaviest domain - focus on validate/mutate/generate rules and CEL expressions
 
 ### Books
 - TBD
@@ -347,9 +347,9 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
  - [Collector Configuration](https://opentelemetry.io/docs/collector/configuration/)
  - [Auto-Instrumentation](https://opentelemetry.io/docs/concepts/instrumentation/automatic/)
  - [OpenTelemetry Operator for Kubernetes](https://opentelemetry.io/docs/kubernetes/operator/)
- - [OTel Demo Application](https://opentelemetry.io/docs/demo/) — reference app covering all signals in one deployable service
+ - [OTel Demo Application](https://opentelemetry.io/docs/demo/) - reference app covering all signals in one deployable service
  - [OTCA Study Guide (community)](https://github.com/rDunn28/OTCA-study-guide)
- - The API and SDK domain is 46% of the exam — understand the difference between API (contracts) and SDK (implementations)
+ - The API and SDK domain is 46% of the exam - understand the difference between API (contracts) and SDK (implementations)
 
 ### Books
 - [Cloud Native Observability with OpenTelemetry](https://www.packtpub.com/product/cloud-native-observability-with-opentelemetry/9781801077514) by Alex Boten
@@ -359,13 +359,13 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
  - [Is the OTCA Exam Right for You?](https://opentelemetry.io/blog/2025/otca-for-newcomers-and-advanced-users/) on OpenTelemetry blog
  - [How I Passed the OTCA Exam in January 2026](https://lime5005.medium.com/how-i-passed-the-opentelemetry-certified-associate-otca-exam-in-january-2026-efe6257be966) on Medium
  - [Prepare for the OTCA exam](https://medium.com/@kienlt.qn/prepare-for-the-opentelemetry-certified-associate-otca-exam-342ea1f574bc) on Medium
- - [How to pass OTCA — Tips](https://cloudificando.medium.com/how-to-pass-opentelemetry-certified-associate-otca-tips-the-best-observability-certification-c64afacfa99a) on Medium
+ - [How to pass OTCA - Tips](https://cloudificando.medium.com/how-to-pass-opentelemetry-certified-associate-otca-tips-the-best-observability-certification-c64afacfa99a) on Medium
 
 ## Prometheus Certified Associate (PCA)
 
 ### Courses
  * [Prometheus Certified Associate (PCA)](https://kodekloud.com/courses/prometheus-certified-associate-pca) on KodeKloud
- * [Prometheus Training by PromLabs](https://training.promlabs.com/) — PromQL-focused training by the creators of PromLabs
+ * [Prometheus Training by PromLabs](https://training.promlabs.com/) - PromQL-focused training by the creators of PromLabs
 
 ### Practice Tests
 - [Free test](https://yetmike.com/tests/pca1)
@@ -380,16 +380,13 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
  - [Prometheus Exporters](https://prometheus.io/docs/instrumenting/exporters/)
  - [Client Libraries](https://prometheus.io/docs/instrumenting/clientlibs/)
  - [Grafana Dashboards](https://grafana.com/docs/grafana/latest/dashboards/)
- - [PCA Study Guide by DevOpsCube](https://devopscube.com/prometheus-certified-associate/)
- - PromQL is 28% of the exam and the hardest part — practice `rate()`, `irate()`, `increase()`, label matchers, and aggregation operators hands-on
+ - PromQL is 28% of the exam and the hardest part - practice `rate()`, `irate()`, `increase()`, label matchers, and aggregation operators hands-on
 
 ### Books
 - TBD
 
 ### Articles
- - [How to Ace the PCA Exam](https://www.cncf.io/blog/2024/11/07/how-to-ace-the-prometheus-certified-associate-pca-exam/) on CNCF blog
  - [How I Cleared the PCA Exam](https://medium.com/@kedarnath93/how-i-cleared-my-prometheus-certified-associate-pca-exam-221817aca1e9) on Medium
- - [PCA Tips — How to Pass](https://medium.com/@dgoscn/prometheus-certified-associate-pca-tips-on-how-to-pass-the-exam-72cc573e2d06) on Medium
  - [How to Score 93% in the PCA Exam](https://dev.to/monarene/how-to-score-93-in-the-prometheus-certified-associate-exam-1g07) on DEV Community
 
 ## Istio Certified Associate (ICA)
@@ -400,7 +397,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 
 ### Hands-On Labs
 - [killercoda.com Istio scenarios](https://killercoda.com/ica) labs
-- [Istio Official Tasks](https://istio.io/latest/docs/tasks/) — work through all tasks before exam day
+- [Istio Official Tasks](https://istio.io/latest/docs/tasks/) - work through all tasks before exam day
 
 ### Documentation, Tips and Tricks
  - [Istio Documentation](https://istio.io/latest/docs/)
@@ -417,27 +414,25 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
  - [Ambient Mode Overview](https://istio.io/latest/docs/ambient/overview/)
  - [istioctl Reference](https://istio.io/latest/docs/reference/commands/istioctl/)
  - [ICA Exam Study Guide (KodeKloud)](https://kodekloud.com/blog/istio-certified-associate-ica-study-guide/)
- - **Important**: ICA is a **hands-on performance-based** exam (2 hours, 15–20 tasks) with access to Istio and Kubernetes docs — practice in a real cluster, not just theory
+ - **Important**: ICA is a **hands-on performance-based** exam (2 hours, 15–20 tasks) with access to Istio and Kubernetes docs - practice in a real cluster, not just theory
 
 ### Books
 - TBD
 
 ### Articles
  - [The New Istio Certified Associate Exam Explained](https://medium.com/@maheshshinde.kr/the-new-istio-certified-associate-exam-explained-my-path-from-73-to-success-5607d208c1a1) on Medium
- - [Istio Certified Associate (ICA) Exam Prep](https://medium.com/@wattsdave/istio-certified-associate-ica-exam-prep-51b59bdd372f) on Medium
 
 ## Certified Cloud Native Platform Engineer (CNPE)
 
 ### Courses
- * [Certified Cloud Native Platform Engineering Associate (CNPA) course](https://kodekloud.com/courses/certified-cloud-native-platform-engineering-associate-cnpa) on KodeKloud — CNPA course serves as strong CNPE foundation
- * [Certified Cloud Native Platform Engineer (CNPE) Boot Camp](https://rx-m.com/training/certified-cloud-native-platform-engineering-cnpe-boot-camp-with-exam/) on RX-M (5-day instructor-led)
+ * [Certified Cloud Native Platform Engineering Associate (CNPA) course](https://kodekloud.com/courses/certified-cloud-native-platform-engineering-associate-cnpa) on KodeKloud - CNPA course serves as strong CNPE foundation
 
 ### Hands-On Labs
 - [killercoda.com CNPE scenarios](https://killercoda.com/course/cnpe) labs
 - Practice with the full CNPE toolset in a real cluster: Argo CD, Flux, Crossplane, Kyverno, Prometheus, OpenTelemetry, Tekton, Grafana, Jaeger
 
 ### Documentation, Tips and Tricks
- - [CNPE Exam Page — Linux Foundation](https://training.linuxfoundation.org/certification/certified-cloud-native-platform-engineer-cnpe/)
+ - [CNPE Exam Page - Linux Foundation](https://training.linuxfoundation.org/certification/certified-cloud-native-platform-engineer-cnpe/)
  - [CNPE Study Guide by Ravikiran Srinivasulu](https://ravikirans.com/cnpe-cloud-native-platform-engineer-study-guide/)
  - [Argo CD Documentation](https://argo-cd.readthedocs.io/en/stable/)
  - [Flux Documentation](https://fluxcd.io/flux/)
@@ -451,12 +446,11 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
  - [OPA Gatekeeper](https://open-policy-agent.github.io/gatekeeper/website/docs/)
  - [Kubernetes Operators](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/)
  - [Custom Resource Definitions](https://kubernetes.io/docs/tasks/extend-kubernetes/custom-resources/custom-resource-definitions/)
- - **Important**: CNPE is a **hands-on performance-based** exam (2 hours) using a remote Linux desktop — you are expected to complete real tasks using unfamiliar tools with access to documentation. CKA-level Kubernetes proficiency is assumed
- - You will NOT be tested on deep tool-specific knowledge — breadth across the ecosystem matters more than mastery of any single tool
+ - **Important**: CNPE is a **hands-on performance-based** exam (2 hours) using a remote Linux desktop - you are expected to complete real tasks using unfamiliar tools with access to documentation. CKA-level Kubernetes proficiency is assumed
+ - You will NOT be tested on deep tool-specific knowledge - breadth across the ecosystem matters more than mastery of any single tool
 
 ### Books
 - [Platform Engineering on Kubernetes](https://www.manning.com/books/platform-engineering-on-kubernetes) by Mauricio Salatino
 
 ### Articles
  - [How I Passed the CNPE Exam](https://medium.com/@michatomczak_38795/how-i-passed-the-cloud-native-platform-engineer-cnpe-exam-and-what-you-can-learn-from-my-attempt-69f30f3d1458) on Medium
- - [CNPE Certification Study Guide (YouTube)](https://www.youtube.com/watch?v=7kcTXIqIqiM)
