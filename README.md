@@ -234,7 +234,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
  - The exam is multiple-choice only - know `catalog-info.yaml` entity kinds (Component, API, System, Domain, Group, User, Resource, Location) cold
 
 ### Books
-- TBD
+- TBD 
 
 ### Articles
  - [Awesome Backstage (community resources)](https://github.com/backstage/awesome-backstage)
