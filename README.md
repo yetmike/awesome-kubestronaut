@@ -58,7 +58,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 ### Documentation, Tips and Tricks
  * [Kubernetes Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 
-### Books
+### Books 
 - TBD
 
 ### Articles
