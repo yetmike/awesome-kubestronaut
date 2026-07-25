@@ -25,6 +25,12 @@ A curated and opinionated list of resources to help you ace Kubernetes certifica
 
 Kubernetes is the de facto standard for container orchestration, and earning a Kubernetes certification can significantly boost your career. This repository is designed to help you navigate the learning path, prepare for certifications, and gain practical experience.
 
+### Useful for every exam
+ * [CNCF Exam Curricula](https://github.com/cncf/curriculum) - the official, versioned curriculum for each exam. Always start here
+ * [Kubestronaut Program](https://www.cncf.io/training/kubestronaut/) - requirements and benefits of the (Golden) Kubestronaut title
+ * [Linux Foundation Certification Candidate Handbook](https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2) - exam rules, ID requirements, retakes, proctoring setup
+ * [Exam Frequently Asked Questions](https://docs.linuxfoundation.org/tc-docs/certification/faq-cka-ckad-cks) - allowed docs, browser tabs, and environment for the hands-on exams
+
 ## Certified Kubernetes Administrator (CKA)
 
 ### Courses
@@ -37,9 +43,17 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 
 ### Documentation, Tips and Tricks
  * [Kubernetes Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+ * [kubectl Quick Reference](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
+ * [Upgrading kubeadm clusters](https://kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/) - a near-guaranteed exam task
+ * [Certificate Management with kubeadm](https://kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-certs/)
+ * [Backing up an etcd cluster](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/#backing-up-an-etcd-cluster) - know `etcdctl snapshot save`/`restore` by heart
+ * [Troubleshooting Clusters](https://kubernetes.io/docs/tasks/debug/debug-cluster/)
+ * [Cluster Administration Overview](https://kubernetes.io/docs/concepts/cluster-administration/)
 
 ### Books
-- TBD
+- [Certified Kubernetes Administrator (CKA) Study Guide](https://www.amazon.com/Certified-Kubernetes-Administrator-Study-Guide/dp/1098107225) by Benjamin Muschko
+- [The Kubernetes Book](https://www.nigelpoulton.com/books) by Nigel Poulton - best conceptual primer before the hands-on drilling
+- [Kubernetes Up & Running](https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/109811020X) by Burns, Beda, Hightower & Evenson
 
 ### Articles
  * TBD
@@ -57,9 +71,14 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 
 ### Documentation, Tips and Tricks
  * [Kubernetes Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+ * [Configure Liveness, Readiness and Startup Probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/)
+ * [Managing Resources for Containers](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/)
+ * [Multi-Container Pod Patterns (sidecar containers)](https://kubernetes.io/docs/concepts/workloads/pods/sidecar-containers/)
+ * [Helm Documentation](https://helm.sh/docs/) - packaging and templating shows up in the Application Deployment domain
+ * Set up `kubectl` aliases, `--dry-run=client -o yaml`, and `kubectl explain` before the timer starts - CKAD is won on speed
 
 ### Books 
-- TBD
+- [Certified Kubernetes Application Developer (CKAD) Study Guide](https://www.amazon.com/Certified-Kubernetes-Application-Developer-Study/dp/1492083739) by Benjamin Muschko
 
 ### Articles
  * TBD
@@ -86,9 +105,19 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
  * [Restricting Container's Access to Resources with AppArmor](https://kubernetes.io/docs/tutorials/security/apparmor/)
  * [Restricting a Container's Syscalls with seccomp](https://kubernetes.io/docs/tutorials/security/seccomp/)
  * [Admission Control in Kubernetes](https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/)
+ * [Pod Security Standards](https://kubernetes.io/docs/concepts/security/pod-security-standards/) and [enforcing them with the admission controller](https://kubernetes.io/docs/tasks/configure-pod-container/enforce-standards-admission-controller/)
+ * [Configure a Security Context for a Pod or Container](https://kubernetes.io/docs/tasks/configure-pod-container/security-context/)
+ * [Kubernetes Security Checklist](https://kubernetes.io/docs/concepts/security/security-checklist/)
+ * [Encrypting Secret Data at Rest](https://kubernetes.io/docs/tasks/administer-cluster/encrypt-data/)
+ * [Runtime Class (gVisor / Kata containers)](https://kubernetes.io/docs/concepts/containers/runtime-class/)
+ * [kube-bench](https://github.com/aquasecurity/kube-bench) - CIS Benchmark checks, a recurring exam task
+ * [Trivy](https://trivy.dev/docs/latest/guide/) - image and manifest scanning
+ * [Falco Documentation](https://falco.org/docs/) - runtime detection rules
 
 ### Books
 - [Certified Kubernetes Security Specialist (CKS) Study Guide: In-Depth Guidance and Practice](https://www.amazon.com/Certified-Kubernetes-Security-Specialist-Depth/dp/1098132971)
+- [Hacking Kubernetes: Threat-Driven Analysis and Defense](https://www.amazon.com/Hacking-Kubernetes-Threat-Driven-Analysis-Defense/dp/1492081736) by Andrew Martin & Michael Hausenblas
+- [Container Security](https://www.amazon.com/Container-Security-Fundamental-Containerized-Applications/dp/1492056707) by Liz Rice - the "why" behind namespaces, cgroups, and capabilities
 
 ### Articles
  * TBD
@@ -143,13 +172,22 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 
 ## Kubernetes and Cloud Security Associate (KCSA)
 ### Courses
- - [Kubernetes and Cloud Native Security Associate (KCSA)]() on KodeKloud
+ - [Kubernetes and Cloud Native Security Associate (KCSA)](https://kodekloud.com/courses/kubernetes-and-cloud-native-security-associate-kcsa) on KodeKloud
 
 ### Practice Tests
 - [Free test](https://yetmike.com/tests/kcsa1)
 
 ### Documentation, Tips and Tricks
-- TBD
+ - [Cloud Native Security (the 4C's)](https://kubernetes.io/docs/concepts/security/cloud-native-security/) - the mental model the whole exam is built on
+ - [Overview of Cloud Native Security](https://kubernetes.io/docs/concepts/security/)
+ - [Kubernetes Security Checklist](https://kubernetes.io/docs/concepts/security/security-checklist/)
+ - [Pod Security Standards](https://kubernetes.io/docs/concepts/security/pod-security-standards/)
+ - [Kubernetes API Server Bypass Risks](https://kubernetes.io/docs/concepts/security/api-server-bypass-risks/) - an explicit exam domain
+ - [Service Accounts](https://kubernetes.io/docs/concepts/security/service-accounts/)
+ - [Multi-tenancy](https://kubernetes.io/docs/concepts/security/multi-tenancy/)
+ - [CNCF Cloud Native Security Whitepaper](https://www.cncf.io/reports/cloud-native-security-whitepaper/)
+ - [CNCF TAG Security](https://github.com/cncf/tag-security) - threat models and security assessments referenced by the curriculum
+ - KCSA is multiple-choice and conceptual - you are tested on threat models and control categories, not on `kubectl` syntax
 
 ### Books
 - [Learn Kubernetes Security: Securely orchestrate, scale, and manage your microservices in Kubernetes deployments](https://www.amazon.com/Learn-Kubernetes-Security-orchestrate-microservices/dp/1839216506)
