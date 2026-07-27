@@ -200,7 +200,6 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 
 ### Courses
  * [GitOps Certified Associate (CGOA)](https://kodekloud.com/courses/gitops-certified-associate-cgoa) on KodeKloud
- * [Introduction to GitOps (LFS169)](https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/) on Linux Foundation (free)
  * [DevOps and GitOps with Kubernetes](https://www.udemy.com/topic/gitops/) on Udemy
 
 ### Practice Tests
