@@ -40,6 +40,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 ### Hands-On Labs
 - [killer.sh/cka](https://killer.sh/cka) mock exam
 - [killercoda.com/cka](https://killercoda.com/cka) labs
+- [flashkube.dev/cka](https://flashkube.dev/cka) - practice questions dealt by the exam blueprint, plus multi-step tasks graded on a simulated cluster's state rather than the exact command; free 10-card demo, no account (full cartridge paid)
 
 ### Documentation, Tips and Tricks
  * [Kubernetes Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
@@ -68,6 +69,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 * [killer.sh/ckad](https://killer.sh/ckad) mock exam
 - self-hosted [CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises)
 - [killercoda.com/ckad](https://killercoda.com/ckad) labs
+- [flashkube.dev/ckad](https://flashkube.dev/ckad) - practice questions dealt by the exam blueprint, plus multi-step tasks graded on a simulated cluster's state rather than the exact command; free 10-card demo, no account (full cartridge paid)
 
 ### Documentation, Tips and Tricks
  * [Kubernetes Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
@@ -93,6 +95,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 - [Self-paced preparation](./cks/README.md)
 - [killer.sh/cks](https://killer.sh/cks)
 - [killercoda.com/killer-shell-cks](https://killercoda.com/killer-shell-cks) labs
+- [flashkube.dev/cks](https://flashkube.dev/cks) - practice questions dealt by the exam blueprint, plus multi-step tasks graded on a simulated cluster's state rather than the exact command; free 10-card demo, no account (full cartridge paid)
 
 ### Documentation, Tips and Tricks
  * [Kubernetes Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
@@ -130,6 +133,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 
 ### Practice Tests
 - [Free test](https://yetmike.com/tests/kcna1)
+- [flashkube.dev/kcna](https://flashkube.dev/kcna) - multiple-choice practice dealt by the exam blueprint, with spaced-repetition review; free 10-card demo, no account (full cartridge paid)
 
 ### Documentation, Tips and Tricks
  - [Kubernetes Overview](https://kubernetes.io/docs/concepts/overview/)
@@ -176,6 +180,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 
 ### Practice Tests
 - [Free test](https://yetmike.com/tests/kcsa1)
+- [flashkube.dev/kcsa](https://flashkube.dev/kcsa) - multiple-choice practice dealt by the exam blueprint, with spaced-repetition review; free 10-card demo, no account (full cartridge paid)
 
 ### Documentation, Tips and Tricks
  - [Cloud Native Security (the 4C's)](https://kubernetes.io/docs/concepts/security/cloud-native-security/) - the mental model the whole exam is built on
