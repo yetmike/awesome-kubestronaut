@@ -134,6 +134,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 ### Practice Tests
 - [Free test](https://yetmike.com/tests/kcna1)
 - [flashkube.dev/kcna](https://flashkube.dev/kcna) - multiple-choice practice dealt by the exam blueprint, with spaced-repetition review; free 10-card demo, no account (full cartridge paid)
+- [ExamCrest KCNA free questions](https://examcrest.com/exam/cncf-kcna/free-questions?utm_source=github&utm_campaign=kubestronaut-kcna) - multiple-choice sample questions, each tagged to a domain of the current four-domain curriculum, with every option explained; free, no account (full mock tests paid)
 
 ### Documentation, Tips and Tricks
  - [Kubernetes Overview](https://kubernetes.io/docs/concepts/overview/)
