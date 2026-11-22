@@ -183,6 +183,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 ### Practice Tests
 - [Free test](https://yetmike.com/tests/kcsa1)
 - [flashkube.dev/kcsa](https://flashkube.dev/kcsa) - multiple-choice practice dealt by the exam blueprint, with spaced-repetition review; free 10-card demo, no account (full cartridge paid)
+- [Testimea KCSA practice exam](https://testimea.com/product/kubernetes-and-cloud-native-security-associate-kcsa-certification-practise-exam/) - practice exam with a free sample quiz and a $1 one-sitting trial (full access is a one-time purchase)
 
 ### Documentation, Tips and Tricks
  - [Cloud Native Security (the 4C's)](https://kubernetes.io/docs/concepts/security/cloud-native-security/) - the mental model the whole exam is built on
@@ -211,6 +212,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 
 ### Practice Tests
 - [Free test](https://yetmike.com/tests/cgoa1)
+- [Testimea CGOA practice exam](https://testimea.com/product/certified-gitops-associate-cgoa-certification-practise-exam/) - practice exam with a free sample quiz and a $1 one-sitting trial (full access is a one-time purchase)
 
 ### Documentation, Tips and Tricks
  - [OpenGitOps Principles](https://opengitops.dev/) - the four GitOps principles are central to the exam
@@ -238,6 +240,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 
 ### Practice Tests
 - [Free test](https://yetmike.com/tests/capa1)
+- [Testimea CAPA practice exam](https://testimea.com/product/certified-argo-project-associate-capa-certification-practise-exam/) - practice exam with a free sample quiz and a $1 one-sitting trial (full access is a one-time purchase)
 
 ### Documentation, Tips and Tricks
  - [Argo CD Documentation](https://argo-cd.readthedocs.io/en/stable/)
@@ -263,6 +266,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 
 ### Practice Tests
 - [Free test](https://yetmike.com/tests/cba1)
+- [Testimea CBA practice exam](https://testimea.com/product/certified-backstage-associate-cba-certification-practise-exam/) - practice exam with a free sample quiz and a $1 one-sitting trial (full access is a one-time purchase)
 
 ### Documentation, Tips and Tricks
  - [Backstage Getting Started](https://backstage.io/docs/getting-started/)
@@ -322,6 +326,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 
 ### Practice Tests
 - [Free test](https://yetmike.com/tests/cca1)
+- [Testimea CCA practice exam](https://testimea.com/product/cilium-certified-associate-cca-certification-practise-exam/) - practice exam with a free sample quiz and a $1 one-sitting trial (full access is a one-time purchase)
 
 ### Documentation, Tips and Tricks
  - [CCA Official Study Guide (Isovalent)](https://github.com/isovalent/CCA-Study-Guide)
@@ -352,6 +357,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 
 ### Practice Tests
 - [Free test](https://yetmike.com/tests/kca1)
+- [Testimea KCA practice exam](https://testimea.com/product/kyverno-certified-associate-kca-certification-practise-exam/) - practice exam with a free sample quiz and a $1 one-sitting trial (full access is a one-time purchase)
 
 ### Documentation, Tips and Tricks
  - [Kyverno Documentation](https://kyverno.io/docs/)
@@ -381,6 +387,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 
 ### Practice Tests
 - [Free test](https://yetmike.com/tests/otca1)
+- [Testimea OTCA practice exam](https://testimea.com/product/opentelemetry-certified-associate-otca-certification-practise-exam/) - practice exam with a free sample quiz and a $1 one-sitting trial (full access is a one-time purchase)
 
 ### Documentation, Tips and Tricks
  - [OpenTelemetry Documentation](https://opentelemetry.io/docs/)
@@ -414,6 +421,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 
 ### Practice Tests
 - [Free test](https://yetmike.com/tests/pca1)
+- [Testimea PCA practice exam](https://testimea.com/product/prometheus-certified-associate-pca-certification-practise-exam/) - practice exam with a free sample quiz and a $1 one-sitting trial (full access is a one-time purchase)
 
 ### Documentation, Tips and Tricks
  - [Prometheus Documentation](https://prometheus.io/docs/introduction/overview/)
