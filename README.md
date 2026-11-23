@@ -14,11 +14,12 @@ A curated and opinionated list of resources to help you ace Kubernetes certifica
  * [Cilium Certified Associate (CCA)](#cilium-certified-associate-cca)
  * [Kyverno Certified Associate (KCA)](#kyverno-certified-associate-kca)
  * [Kubernetes and Cloud Native Associate (KCNA)](#kubernetes-and-cloud-native-associate-kcna)
- * [Kubernetes and Cloud Security Associate (KCSA)](#kubernetes-and-cloud-security-associate)
+ * [Kubernetes and Cloud Native Security Associate (KCSA)](#kubernetes-and-cloud-native-security-associate-kcsa)
  * [OpenTelemetry Certified Associate (OTCA)](#opentelemetry-certified-associate-otca)
  * [Prometheus Certified Associate (PCA)](#prometheus-certified-associate-pca)
  * [Istio Certified Associate (ICA)](#istio-certified-associate-ica)
  * [Certified Cloud Native Platform Engineer (CNPE)](#certified-cloud-native-platform-engineer-cnpe)
+ * [Certified Kubernetes Network Engineer (CKNE)](#certified-kubernetes-network-engineer-ckne)
  * [Linux Foundation Certified System Administrator (LFCS)](#linux-foundation-certified-system-administrator-lfcs)
 
 ## Introduction
@@ -135,6 +136,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 - [Free test](https://yetmike.com/tests/kcna1)
 - [flashkube.dev/kcna](https://flashkube.dev/kcna) - multiple-choice practice dealt by the exam blueprint, with spaced-repetition review; free 10-card demo, no account (full cartridge paid)
 - [Cloud & SRE Exam Arena (KCNA Track)](https://fabianimv.github.io/exam-arena/) - Free open-source interactive exam simulator covering Kubernetes Fundamentals, Container Orchestration, Cloud Native Architecture, and Observability with per-option diagnostic rationales and SVG diagrams (no signup required).
+- [ExamCrest KCNA free questions](https://examcrest.com/exam/cncf-kcna/free-questions?utm_source=github&utm_campaign=kubestronaut-kcna) - multiple-choice sample questions, each tagged to a domain of the current four-domain curriculum, with every option explained; free, no account (full mock tests paid)
 
 ### Documentation, Tips and Tricks
  - [Kubernetes Overview](https://kubernetes.io/docs/concepts/overview/)
@@ -175,13 +177,14 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
  - [Passing KCNA Exam In 15 Minutes
 ](https://medium.com/@yetmike/passing-kcna-exam-in-15-minutes-d7d63defe972)
 
-## Kubernetes and Cloud Security Associate (KCSA)
+## Kubernetes and Cloud Native Security Associate (KCSA)
 ### Courses
  - [Kubernetes and Cloud Native Security Associate (KCSA)](https://kodekloud.com/courses/kubernetes-and-cloud-native-security-associate-kcsa) on KodeKloud
 
 ### Practice Tests
 - [Free test](https://yetmike.com/tests/kcsa1)
 - [flashkube.dev/kcsa](https://flashkube.dev/kcsa) - multiple-choice practice dealt by the exam blueprint, with spaced-repetition review; free 10-card demo, no account (full cartridge paid)
+- [Testimea KCSA practice exam](https://testimea.com/product/kubernetes-and-cloud-native-security-associate-kcsa-certification-practise-exam/) - practice exam with a free sample quiz and a $1 one-sitting trial (full access is a one-time purchase)
 
 ### Documentation, Tips and Tricks
  - [Cloud Native Security (the 4C's)](https://kubernetes.io/docs/concepts/security/cloud-native-security/) - the mental model the whole exam is built on
@@ -210,6 +213,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 
 ### Practice Tests
 - [Free test](https://yetmike.com/tests/cgoa1)
+- [Testimea CGOA practice exam](https://testimea.com/product/certified-gitops-associate-cgoa-certification-practise-exam/) - practice exam with a free sample quiz and a $1 one-sitting trial (full access is a one-time purchase)
 
 ### Documentation, Tips and Tricks
  - [OpenGitOps Principles](https://opengitops.dev/) - the four GitOps principles are central to the exam
@@ -237,6 +241,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 
 ### Practice Tests
 - [Free test](https://yetmike.com/tests/capa1)
+- [Testimea CAPA practice exam](https://testimea.com/product/certified-argo-project-associate-capa-certification-practise-exam/) - practice exam with a free sample quiz and a $1 one-sitting trial (full access is a one-time purchase)
 
 ### Documentation, Tips and Tricks
  - [Argo CD Documentation](https://argo-cd.readthedocs.io/en/stable/)
@@ -262,6 +267,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 
 ### Practice Tests
 - [Free test](https://yetmike.com/tests/cba1)
+- [Testimea CBA practice exam](https://testimea.com/product/certified-backstage-associate-cba-certification-practise-exam/) - practice exam with a free sample quiz and a $1 one-sitting trial (full access is a one-time purchase)
 
 ### Documentation, Tips and Tricks
  - [Backstage Getting Started](https://backstage.io/docs/getting-started/)
@@ -321,6 +327,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 
 ### Practice Tests
 - [Free test](https://yetmike.com/tests/cca1)
+- [Testimea CCA practice exam](https://testimea.com/product/cilium-certified-associate-cca-certification-practise-exam/) - practice exam with a free sample quiz and a $1 one-sitting trial (full access is a one-time purchase)
 
 ### Documentation, Tips and Tricks
  - [CCA Official Study Guide (Isovalent)](https://github.com/isovalent/CCA-Study-Guide)
@@ -351,6 +358,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 
 ### Practice Tests
 - [Free test](https://yetmike.com/tests/kca1)
+- [Testimea KCA practice exam](https://testimea.com/product/kyverno-certified-associate-kca-certification-practise-exam/) - practice exam with a free sample quiz and a $1 one-sitting trial (full access is a one-time purchase)
 
 ### Documentation, Tips and Tricks
  - [Kyverno Documentation](https://kyverno.io/docs/)
@@ -380,6 +388,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 
 ### Practice Tests
 - [Free test](https://yetmike.com/tests/otca1)
+- [Testimea OTCA practice exam](https://testimea.com/product/opentelemetry-certified-associate-otca-certification-practise-exam/) - practice exam with a free sample quiz and a $1 one-sitting trial (full access is a one-time purchase)
 
 ### Documentation, Tips and Tricks
  - [OpenTelemetry Documentation](https://opentelemetry.io/docs/)
@@ -413,6 +422,7 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 
 ### Practice Tests
 - [Free test](https://yetmike.com/tests/pca1)
+- [Testimea PCA practice exam](https://testimea.com/product/prometheus-certified-associate-pca-certification-practise-exam/) - practice exam with a free sample quiz and a $1 one-sitting trial (full access is a one-time purchase)
 
 ### Documentation, Tips and Tricks
  - [Prometheus Documentation](https://prometheus.io/docs/introduction/overview/)
@@ -498,6 +508,56 @@ Kubernetes is the de facto standard for container orchestration, and earning a K
 
 ### Articles
  - [How I Passed the CNPE Exam](https://medium.com/@michatomczak_38795/how-i-passed-the-cloud-native-platform-engineer-cnpe-exam-and-what-you-can-learn-from-my-attempt-69f30f3d1458) on Medium
+
+## Certified Kubernetes Network Engineer (CKNE)
+
+### Courses
+- TBD
+
+### Hands-On Labs
+- [killercoda.com CKNE scenarios](https://killercoda.com/ckne) labs
+- Killer.sh exam simulator - two sessions are included with the exam registration
+- Build a multi-node cluster (kind or kubeadm) without a default CNI, install one yourself, then break and fix pod, Service and DNS connectivity
+
+### Documentation, Tips and Tricks
+ - [CKNE Exam Page - Linux Foundation](https://training.linuxfoundation.org/certification/certified-kubernetes-network-engineer-ckne/)
+ - [CKNE Curriculum](https://github.com/cncf/curriculum/blob/master/CKNE_Curriculum.pdf)
+ - Core Infrastructure and CNI (15%)
+   - [Cluster Networking](https://kubernetes.io/docs/concepts/cluster-administration/networking/)
+   - [CNI Specification](https://github.com/containernetworking/cni/blob/main/SPEC.md)
+   - [Networking Addons](https://kubernetes.io/docs/concepts/cluster-administration/addons/)
+   - [IPv4/IPv6 Dual-Stack](https://kubernetes.io/docs/concepts/services-networking/dual-stack/) - Pod and Service CIDR allocation
+   - [Multus CNI](https://github.com/k8snetworkplumbingwg/multus-cni) - multi-interface pods
+ - Service Networking and DNS (25%)
+   - [Services, Load Balancing, and Networking](https://kubernetes.io/docs/concepts/services-networking/)
+   - [Virtual IPs and Service Proxies](https://kubernetes.io/docs/reference/networking/virtual-ips/) - how kube-proxy works
+   - [EndpointSlices](https://kubernetes.io/docs/concepts/services-networking/endpoint-slices/)
+   - [Customizing DNS Service](https://kubernetes.io/docs/tasks/administer-cluster/dns-custom-nameservers/)
+   - [CoreDNS Manual](https://coredns.io/manual/toc/)
+   - [Debugging DNS Resolution](https://kubernetes.io/docs/tasks/administer-cluster/dns-debugging-resolution/)
+   - [Debug Services](https://kubernetes.io/docs/tasks/debug/debug-application/debug-service/)
+   - [Gateway API](https://gateway-api.sigs.k8s.io/) - Gateway and HTTPRoute
+ - Advanced Traffic Management (20%)
+   - [Gateway API Inference Extension](https://gateway-api-inference-extension.sigs.k8s.io/) - routing LLM traffic
+   - [Multi-Cluster Services API](https://multicluster.sigs.k8s.io/concepts/multicluster-services-api/) - cross-cluster service discovery
+   - [Cilium Egress Gateway](https://docs.cilium.io/en/stable/network/egress-gateway/)
+   - [Cilium Cluster Mesh](https://docs.cilium.io/en/stable/network/clustermesh/)
+ - Observability (15%)
+   - [Cilium Hubble](https://docs.cilium.io/en/stable/observability/hubble/) - flow logs and network metrics
+ - Network Security and Policy (25%)
+   - [Network Policies](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
+   - [Cilium Transparent Encryption](https://docs.cilium.io/en/stable/security/network/encryption/) - node and pod level encryption
+   - [Gateway API TLS](https://gateway-api.sigs.k8s.io/guides/tls/)
+   - [cert-manager with Gateway API](https://cert-manager.io/docs/usage/gateway/)
+ - **Important**: CKNE is a **hands-on performance-based** exam (2 hours) in a remote Linux desktop with a terminal and web-based interfaces. No prerequisites, but CKA-level Kubernetes skills are a sensible baseline
+ - The curriculum is vendor-neutral and does not name a CNI - the Cilium links above are one implementation of each topic, not a confirmed exam tool
+ - Get comfortable with `ip`, `iptables` and `tcpdump` - packet-level troubleshooting is an explicit curriculum item
+
+### Books
+- TBD
+
+### Articles
+- TBD
 
 ## Linux Foundation Certified System Administrator (LFCS)
 
